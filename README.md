@@ -1,6 +1,6 @@
 # Hi, I'm Manikanta Rongala 👋
 
-### Aspiring Data Analyst | SQL | Power BI | Excel | MySQL
+### Aspiring Data Analyst | SQL | Power BI | Excel | Google sheets
 
 I am an aspiring Data Analyst passionate about transforming raw data into meaningful business insights.
 
